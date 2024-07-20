@@ -79,7 +79,8 @@
 
 ![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
 ###
-<!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"alt="snake" /></a>
+  <img height="200" src="https://images.alphacoders.com/136/1367554.jpeg"  />
 </div>
+
+###
