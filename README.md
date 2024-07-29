@@ -5,11 +5,11 @@
 
   
 
-<h3 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Acerca de mi 👨🏻‍💻🚀</h3>
+<h3 align="center"><img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Acerca de mi 👨🏻‍💻🚀</h3>
 
 ###
 
-<p align="left">- 🔭 Estudio Ingeniería en Sistemas de Información y Ciencias de la Computación.<br>- 📚 Proceso en Desarrollador FullStack.<br>- ⚡ Me gusta mucho el diseño UX/UI.</p>
+<p align="center">- 🔭 Estudio Ingeniería en Sistemas de Información y Ciencias de la Computación.<br>- 📚 Proceso en Desarrollador FullStack.<br>- ⚡ Me gusta mucho el diseño UX/UI.</p>
 <div align="center">
 
   `Crea, diseña y programa`
@@ -21,11 +21,11 @@
   `¯\_(ツ)_/¯`
 </div>
 
-<h3 align="left">🛠 Lenguajes y Herramientas<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h3>
+<h3 align="center">🛠 Lenguajes y Herramientas<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" alt="xd logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
@@ -66,7 +66,7 @@
 
 
 
-<h3 align="left">🔥 Mis contribuciones :</h3>
+<h3 align="center">🔥 Mis contribuciones :</h3>
 
 ###
 
