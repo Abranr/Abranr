@@ -69,6 +69,7 @@
   <div align="center">
     <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif" alt="Chrome Dino" />
   </div>
+  <a href="#"><img align="left" alt="Finish" width="100%" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/e5713c27dbf0a94e7c9368be9d9840c9a504b7e3/assets/Finish.svg" /></a>
 
   <div align="center">
     <img height="200" src="https://images.alphacoders.com/136/1367554.jpeg" />
