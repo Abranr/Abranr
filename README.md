@@ -1,5 +1,5 @@
 <a href="#"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/e5713c27dbf0a94e7c9368be9d9840c9a504b7e3/assets/Welcome.svg" /></a>
-<h1> 💫 Acerca de mi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+<h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">💫 Acerca de mi
   </h1>
 
 <div align="center">
