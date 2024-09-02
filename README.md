@@ -1,5 +1,6 @@
 <a href="#"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/e5713c27dbf0a94e7c9368be9d9840c9a504b7e3/assets/Welcome.svg" /></a>
-<h1> 💫 Acerca de mi  </h1>
+<h1> 💫 Acerca de mi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  </h1>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -9,7 +10,7 @@
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200" />
 
   <h3 align="center">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Acerca de mi 👨🏻‍💻🚀
+     Acerca de mi 👨🏻‍💻🚀
   </h3>
 
   <p align="center">
