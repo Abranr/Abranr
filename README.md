@@ -1,11 +1,10 @@
 <a href="#"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/e5713c27dbf0a94e7c9368be9d9840c9a504b7e3/assets/Welcome.svg" /></a>
 <h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">💫 Acerca de mi
   </h1>
-
-<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sacramento&size=30&pause=1000&center=true&width=435&lines=Andre+Bran+;Estudiante+de+Ingenier%C3%ADa+" alt="Typing SVG" /></a>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00860F&background=646A6900&center=true&random=false&width=435&lines=Hola%2C+soy+Andre+Bran++%F0%9F%9A%80;Estudiante+de+Ingenier%C3%ADa+%F0%9F%92%BB" alt="Typing SVG" />
   </a>
+
 
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200" />
 
