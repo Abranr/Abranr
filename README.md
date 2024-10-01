@@ -56,12 +56,14 @@
   </div>
 </div>
 </details>
-  <h3 align="center">🔥 Mis contribuciones :</h3>
-
+<details>
+<summary><b>Mis contribuciones 🤝🏻</b></summary>
+<div>
   <div align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=abranr.abranr&" />
   </div>
-
+</div>
+</details>
  
 </div>
 
