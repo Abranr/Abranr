@@ -21,7 +21,7 @@
   </div>
 
 <details>
-<summary><b>Skills</b></summary>
+<summary><b>Lenguajes y Herramientas⚙️</b></summary>
 <div>
   <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" alt="xd logo" />
