@@ -55,6 +55,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
   </div>
 </div>
+</details>
   <h3 align="center">🔥 Mis contribuciones :</h3>
 
   <div align="center">
