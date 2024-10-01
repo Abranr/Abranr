@@ -63,14 +63,7 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=abranr.abranr&" />
   </div>
 
-  <div align="center">
-    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif" alt="Chrome Dino" />
-  </div>
-  
-
-  <div align="center">
-    <img height="200" src="https://images.alphacoders.com/136/1367554.jpeg" />
-  </div>
+ 
 </div>
 
 <!-- GitHub Stats -->
