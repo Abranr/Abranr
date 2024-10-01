@@ -20,11 +20,9 @@
     <code>¯\_(ツ)_/¯</code>
   </div>
 
-  <h3 align="center">
-    🛠 Lenguajes y Herramientas
-    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px">
-  </h3>
-
+<details>
+<summary><b>Skills</b></summary>
+<div>
   <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" alt="xd logo" />
     <img width="12" />
@@ -56,7 +54,7 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
   </div>
-
+</div>
   <h3 align="center">🔥 Mis contribuciones :</h3>
 
   <div align="center">
