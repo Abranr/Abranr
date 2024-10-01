@@ -60,18 +60,13 @@
 <summary><b>Mis contribuciones 🤝🏻</b></summary>
 <div>
   <div align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=abranr.abranr&" />
-  </div>
-</div>
-</details>
- 
-</div>
-
-<!-- GitHub Stats -->
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abranr&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abranr&theme=dark&hide_border=false" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abranr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</div>
+</div>
+</details>
+ 
 </div>
   <a href="#-my-github-stats--"><img src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="GitHub Streak" /></
 <a href="#"><img align="left" alt="Finish" width="100%" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/e5713c27dbf0a94e7c9368be9d9840c9a504b7e3/assets/Finish.svg" /></a>
