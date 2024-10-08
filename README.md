@@ -1,5 +1,5 @@
 <div align="center" width="100">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Andre%20Rodríguez"
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=00bdc4&text=Andre%20Rodríguez%20"
   alt="header"/>
   <h3>👨🏻‍💻 ¡Hola, bienvenido a mi perfil!</h3>
 </div>
