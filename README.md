@@ -5,7 +5,7 @@
 <a href="#--about-me--"><img align="left" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Summary.svg" /></a>
 
 
-  <img align="center" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200" />
+
 
   <p align="center">
     - 🔭 Estudio Ingeniería en Sistemas de Información y Ciencias de la Computación.<br>
