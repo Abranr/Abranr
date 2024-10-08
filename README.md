@@ -1,8 +1,7 @@
-<!-- HEADER -->
 <div align="center" width="100">
-  <h1>👋 ¡Hola, bienvenido a mi perfil!</h1>
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Andre%20Rodríguez"
   alt="header"/>
+  <h1>👨🏻‍💻 ¡Hola, bienvenido a mi perfil!</h1>
 </div>
 
 
