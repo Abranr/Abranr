@@ -1,5 +1,5 @@
 <div align="center" width="100">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=38bdf8&text=Andre%20Bran&section=header"
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=8FBFBF&text=Andre%20Bran&section=header&fontColor=0D0D0D"
   alt="header"/>
   <h3>👨🏻‍💻 ¡Hola, bienvenido a mi perfil!</h3>
 </div>
@@ -68,4 +68,4 @@
  
 </div>
   <a href="#-my-github-stats--"><img src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="GitHub Streak" /></a>
-  <a href="#"><img align="left" alt="Finish" width="100%" style="padding:10px;" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=38bdf8&section=footer&fontColor=082f49" /></a>
+  <a href="#"><img align="left" alt="Finish" width="100%" style="padding:10px;" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=8FBFBF&section=footer&fontColor=0D0D0D" /></a>
