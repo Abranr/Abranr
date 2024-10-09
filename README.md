@@ -1,14 +1,14 @@
 <div align="center" width="100">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=8FBFBF&text=Andre%20Bran&section=header&fontColor=0D0D0D"
   alt="header"/>
-  <h3>👨🏻‍💻 ¡Hola, bienvenido a mi perfil!</h3>
+  <h3>⚙️ ¡Hola, bienvenido a mi perfil!</h3>
 </div>
 
 
   <p align="center">
-    - 🔭 Estudio Ingeniería en Sistemas de Información y Ciencias de la Computación.<br>
-    - 📚 Desarrollador FullStack.<br>
-    - ⚡ Me gusta mucho el diseño UX/UI.
+    - 👨🏻‍💻 Estudio Ingeniería en Sistemas de Información y Ciencias de la Computación.<br>
+    - 💻 Desarrollador FullStack.<br>
+    - 🔷 Me gusta mucho el diseño UX/UI.
   </p>
 
   <div align="center">
