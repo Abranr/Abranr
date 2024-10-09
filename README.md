@@ -66,4 +66,4 @@
  
 </div>
   <a href="#-my-github-stats--"><img src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="GitHub Streak" /></
-<a href="#"><img align="left" alt="Finish" width="100%" style="padding-right:10px;" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=C7FFED&text=Input%20text&section=footer" /></a>
+<a href="#"><img align="left" alt="Finish" width="100%" style="padding-right:10px;" src=""/></a>
