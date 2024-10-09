@@ -18,6 +18,7 @@
   </div>
  <br>
 <details>
+  <br>
 <summary><b>Lenguajes y Herramientas⚙️</b></summary>
 <div>
   <div align="center">
@@ -54,6 +55,7 @@
 </div>
 </details>
 <details>
+  <br>
 <summary><b>Mis contribuciones 🤝🏻</b></summary>
 <div>
   <div align="center">
