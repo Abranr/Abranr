@@ -59,9 +59,9 @@
 <summary><b>Mis contribuciones 🤝🏻</b></summary>
 <div>
   <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abranr&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abranr&theme=dark&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abranr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abranr&theme=vue&show_icons=true&hide_border=false&count_private=true" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abranr&theme=vue&hide_border=false" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abranr&theme=vue&show_icons=true&hide_border=false&layout=compact" />
 </div>
 </div>
 </details>
