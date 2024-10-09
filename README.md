@@ -9,6 +9,10 @@
     - 👨🏻‍💻 Estudio Ingeniería en Sistemas de Información y Ciencias de la Computación.<br>
     - 💻 Desarrollador FullStack.<br>
     - 🔷 Me gusta mucho el diseño UX/UI.
+    <br>
+      <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Abranr&label=Vistas&color=8&icon=0&pretty=false"align="center" />
+</a>
   </p>
 
   <div align="center">
@@ -72,8 +76,5 @@
 </details>
  
 </div>
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Abranr&label=Profile%20Views&color=0&icon=0&pretty=true" />
-</a>
   <a href="#-my-github-stats--"><img src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="GitHub Streak" /></a>
   <a href="#"><img align="left" alt="Finish" width="100%" style="padding:10px;" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=8FBFBF&section=footer&fontColor=0D0D0D" /></a>
