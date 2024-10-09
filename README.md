@@ -19,7 +19,7 @@
  <br>
 <details>
   <br>
-<summary><b>Lenguajes y Herramientas⚙️</b></summary>
+<summary><h1> Mis Habilidades <a href="#-my-skill-sets--"><img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/skill.gif" width = 32px></a> </h1></summary>
 <div>
   <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" alt="xd logo" />
@@ -56,7 +56,12 @@
 </details>
 <details>
   <br>
-<summary><b>Mis contribuciones 🤝🏻</b></summary>
+<summary> <h1> 
+    Mis Estadísticas 
+    <a href="#-my-github-stats--">
+      <img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/charts.gif" width = 35px height = 35px>
+    </a>
+  </h1></summary>
 <div>
   <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abranr&theme=vue&show_icons=true&hide_border=false&count_private=true" /><br/>
