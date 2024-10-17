@@ -17,8 +17,7 @@
     <code>¯\_(ツ)_/¯</code>
   </div>
  <br>
-<details>
-  <br>
+
 <summary><h1> Mis Habilidades <a href="#-my-skill-sets--"><img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/skill.gif" width = 32px></a> </h1></summary>
 <div>
   <div align="center">
@@ -53,8 +52,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
   </div>
 </div>
-</details>
-<details>
+
   <br>
 <summary> <h1> 
     Mis Estadísticas 
@@ -69,7 +67,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abranr&theme=vue&show_icons=true&hide_border=false&layout=compact" />
 </div>
 </div>
-</details>
  
 </div>
   <a href="#-my-github-stats--"><img src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="GitHub Streak" /></a>
