@@ -11,7 +11,7 @@
     👨🏻‍💻 Estudio Ingeniería en Sistemas de Información y Ciencias de la Computación.<br>
     💻 Desarrollador FullStack.<br>
     🔷 Me gusta mucho el diseño UX/UI.<br>
-    ⚙️ Aprendiendo y desarrollando.
+    ⚙️ Aprendiendo Java Y .NET.
   </p>
 
   <div align="center">
