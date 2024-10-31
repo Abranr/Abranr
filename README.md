@@ -70,8 +70,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abranr&theme=vue&show_icons=true&hide_border=false&layout=compact" />
 </div>
 </div>
- ### ✍️ Random Dev Quote
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=default_repocard&animation=default&layout=default&font=Architect&quoteType=quote-for-the-day&bgColor=white&fontColor=gray)
+
+
 </div>
   <a href="#-my-github-stats--"><img src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="GitHub Streak" /></a>
   <p align="center">
