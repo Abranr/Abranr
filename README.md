@@ -8,7 +8,7 @@
 
 
   <p align="center">
-    👨🏻‍💻 Estudio Ingeniería en Sistemas de Información y Ciencias de la Computación.<br>
+    ⚡️ Estudio Ingeniería en Sistemas de Información y Ciencias de la Computación.<br>
     💻 Desarrollador FullStack.<br>
     🔷 Me gusta mucho el diseño UX/UI.<br>
     ⚙️ Aprendiendo Java y Matlab.
