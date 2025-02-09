@@ -75,7 +75,6 @@
 </div>
   <a href="#-my-github-stats--"><img src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="GitHub Streak" /></a>
   <p align="center">
-  <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Abranr&label=Vistas&color=12&icon=0&pretty=true" />
 </a>
     </p>
