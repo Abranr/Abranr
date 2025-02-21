@@ -66,7 +66,6 @@
 <div>
   <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abranr&theme=vue&show_icons=true&hide_border=false&count_private=true" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abranr&theme=vue&hide_border=false" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abranr&theme=vue&show_icons=true&hide_border=false&layout=compact" />
 </div>
 </div>
