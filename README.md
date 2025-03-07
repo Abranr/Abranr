@@ -3,6 +3,8 @@
 <div align="center" width="100">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=d9f99d&text=Andre%20Bran&fontColor=0&textBg=false&reversal=false"
   alt="header"/>
+  <div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="65" height="65" />
   <h3>⚙️¡Hola 🚀, Bienvenido a mi perfil👨🏻‍💻!</h3>
 </div>
 
