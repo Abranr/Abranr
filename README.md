@@ -10,10 +10,10 @@
 
 
   <p align="center">
-    ⚡️ Estudio Ingeniería en Sistemas de Información y Ciencias de la Computación.<br>
+    ⚡️ Estudiante de 3 año de Ingeniería en Sistemas de Información y Ciencias de la Computación.<br>
     💻 Desarrollador FullStack.<br>
     🔷 Me gusta mucho el diseño UX/UI.<br>
-    ⚙️ Aprendiendo Java y Matlab.
+    ⚙️ Aprendiendo SQL y Power Bi.
   </p>
 
   <div align="center">
@@ -27,7 +27,6 @@
 
   <---
 
-- 👨‍💻 Estudiante de tercer año de Ingenieria en Ciencias Y Sistemas
 
 ## 🛠 &nbsp;Tech Stack
 
