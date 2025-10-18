@@ -1,7 +1,5 @@
 <div align="center" width="100">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=270&color=22d3ee&section=header" alt="header"/>
-  <div align="center">
-  <img align="center" alt="Javascript!" title="Javascript" height="250px" src="https://miro.medium.com/max/4200/1*OF0xEMkWBv-69zvmNs6RDQ.gif" />
 <div align="center" width="100">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=d9f99d&text=Andre%20Bran&fontColor=0&textBg=false&reversal=false"
   alt="header"/>
@@ -75,7 +73,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abranr&theme=vue&show_icons=true&hide_border=false&layout=compact" />
 </div>
 </div>
-
+  <div align="center">
+  <img align="center" alt="Javascript!" title="Javascript" height="250px" src="https://miro.medium.com/max/4200/1*OF0xEMkWBv-69zvmNs6RDQ.gif" />
 
 </div>
   <a href="#-my-github-stats--"><img src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="GitHub Streak" /></a>
