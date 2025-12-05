@@ -62,16 +62,6 @@
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-%23FF61F6.svg?style=for-the-badge&logo=adobe%20xd&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<div>
-  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abranr&theme=vue&show_icons=true&hide_border=false&count_private=true" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abranr&theme=vue&show_icons=true&hide_border=false&layout=compact" />
-</div>
-</div>
-  <div align="center">
-  <img align="center" alt="Javascript!" title="Javascript" height="250px" src="https://miro.medium.com/max/4200/1*OF0xEMkWBv-69zvmNs6RDQ.gif" />
-
-</div>
   <a href="#-my-github-stats--"><img src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="GitHub Streak" /></a>
   <p align="center">
 </a>
