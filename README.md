@@ -61,12 +61,7 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-%23FF61F6.svg?style=for-the-badge&logo=adobe%20xd&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-<summary> <h1> 
-    Mis Estadísticas 
-    <a href="#-my-github-stats--">
-      <img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/charts.gif" width = 35px height = 35px>
-    </a>
-  </h1></summary>
+
 <div>
   <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abranr&theme=vue&show_icons=true&hide_border=false&count_private=true" /><br/>
