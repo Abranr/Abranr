@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="600">
 </p>
 
 <br>
@@ -22,7 +22,7 @@
 <tr>
 <td width="50%">
 
-<img align="center" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="100%">
+<img align="center" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%">
 
 </td>
 <td width="50%">
@@ -98,21 +98,21 @@ const andre = {
 <table align="center">
 <tr>
 <td align="center" width="33%">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb" width="120" height="120"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="120" height="120"/>
 <br><br>
 <strong>Desarrollo Web</strong>
 <br><br>
 <p>Soluciones FullStack robustas y escalables con las mejores prácticas</p>
 </td>
 <td align="center" width="33%">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="120" height="120"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="120" height="120"/>
 <br><br>
 <strong>Diseño UX/UI</strong>
 <br><br>
 <p>Interfaces intuitivas centradas en la experiencia del usuario</p>
 </td>
 <td align="center" width="33%">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="120" height="120"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="120" height="120"/>
 <br><br>
 <strong>Gráficos 3D</strong>
 <br><br>
@@ -188,7 +188,7 @@ graph LR
 
 ### ⚡ *“Construyendo el futuro, una línea de código a la vez”* ⚡
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 </div>
 
