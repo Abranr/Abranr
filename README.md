@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="600">
+  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="700">
 </p>
 
 <br>
@@ -55,7 +55,6 @@ const andre = {
 ### 💻 Lenguajes de Programación
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -194,4 +193,4 @@ graph LR
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0a192f,50:1e3a8a,100:06b6d4&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0a192f,50:1e3a8a,100:06b6d4&section=footer" />r” />
