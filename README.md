@@ -4,9 +4,6 @@
 
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Desarrollador+FullStack+%F0%9F%9A%80;Entusiasta+UX%2FUI+%F0%9F%8E%A8;Constructor+de+Innovación+%E2%9A%A1;Apasionado+por+el+Código+%F0%9F%92%BB" alt="Typing SVG" />
-</h1>
 
 <br>
 
