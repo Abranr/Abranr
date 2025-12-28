@@ -1,15 +1,20 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0a192f,50:1e3a8a,100:06b6d4&section=header&text=ANDRE%20BRAN&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0a192f,50:1e3a8a,100:06b6d4&section=header&text=ANDRÉ%20BRAN&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Desarrollador%20FullStack%20%7C%20Innovador%20Digital&descAlignY=55&descSize=20" />
 
 </div>
-
 
 <br>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="700">
 </p>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=06B6D4&center=true&vCenter=true&random=false&width=600&lines=Transformando+ideas+en+código;Diseñando+experiencias+digitales;Innovación+%2B+Elegancia+%2B+Funcionalidad)](https://git.io/typing-svg)
+
+</div>
 
 <br>
 
@@ -26,17 +31,28 @@
 
 ```javascript
 const Andre = {
-  Rol: "Desarrollador FullStack",
-  Educación: "Ingeniería en Sistemas de Información y Ciencias de la Computación • 4to Año",
-  Pasión: ["Código Limpio", "UX/UI", "Innovación"],
-  Aprendiendo: ["SQL", "Power BI", "Machine Learning"],
-  Disponible: true,
-  Mentalidad: "Innovación constante"
+  rol: "Desarrollador FullStack",
+  educación: "Ingeniería en Sistemas de Información y Ciencias de la Computación • 4to Año",
+  pasión: ["Código Limpio", "UX/UI", "Innovación"],
+  aprendiendo: ["SQL", "Power BI", "Machine Learning"],
+  disponible: true,
+  mentalidad: "Innovación constante",
+  
+  getStatus() {
+    return `🚀 ${this.mentalidad}`;
+  },
+  
+  nextStep() {
+    return "Construir el futuro digital";
+  }
 }
+
+console.log(Andre.getStatus()); // 🚀 Innovación constante
 ```
 
 **🎯 Enfoque:** Crear experiencias digitales que importan  
-**💡 Lema:** *Crea, diseña y programa con propósito*
+**💡 Lema:** *Crea, diseña y programa con propósito*  
+**✨ Filosofía:** Donde la elegancia se encuentra con la innovación
 
 </td>
 </tr>
@@ -50,68 +66,78 @@ const Andre = {
 
 ### 💻 Lenguajes de Programación
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Java-5382a1?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0a192f" />
+<img src="https://img.shields.io/badge/JavaScript-3178c6?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0a192f" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=0a192f" />
+<img src="https://img.shields.io/badge/PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white&labelColor=0a192f" />
+</p>
 
-### 🌐 Desarrollo Web
+### 🌐 Desarrollo Web & 3D
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/HTML5-0ea5e9?style=for-the-badge&logo=html5&logoColor=white&labelColor=0a192f" />
+<img src="https://img.shields.io/badge/CSS3-0284c7?style=for-the-badge&logo=css3&logoColor=white&labelColor=0a192f" />
+<img src="https://img.shields.io/badge/Three.js-06b6d4?style=for-the-badge&logo=three.js&logoColor=white&labelColor=0a192f" />
+<img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white&labelColor=0a192f" />
+</p>
 
 ### 🎨 Diseño & UX/UI
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Figma-0891b2?style=for-the-badge&logo=figma&logoColor=white&labelColor=0a192f" />
+<img src="https://img.shields.io/badge/Adobe_XD-22d3ee?style=for-the-badge&logo=adobe-xd&logoColor=white&labelColor=0a192f" />
+</p>
 
 ### 📊 Análisis de Datos
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0a192f" />
+<img src="https://img.shields.io/badge/Power_BI-06b6d4?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=0a192f" />
+<img src="https://img.shields.io/badge/Pandas-0e7490?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0a192f" />
+<img src="https://img.shields.io/badge/NumPy-164e63?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0a192f" />
+<img src="https://img.shields.io/badge/Matplotlib-155e75?style=for-the-badge&logo=python&logoColor=white&labelColor=0a192f" />
+</p>
 
 ### 🛠️ Herramientas de Desarrollo
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Git-0891b2?style=for-the-badge&logo=git&logoColor=white&labelColor=0a192f" />
+<img src="https://img.shields.io/badge/GitHub-0e7490?style=for-the-badge&logo=github&logoColor=white&labelColor=0a192f" />
+<img src="https://img.shields.io/badge/VS_Code-0284c7?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0a192f" />
+<img src="https://img.shields.io/badge/IntelliJ-0369a1?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=0a192f" />
+<img src="https://img.shields.io/badge/Postman-06b6d4?style=for-the-badge&logo=postman&logoColor=white&labelColor=0a192f" />
+<img src="https://img.shields.io/badge/Visual_Studio-075985?style=for-the-badge&logo=visual-studio&logoColor=white&labelColor=0a192f" />
+</p>
 
 </div>
 
 <br>
 
-## 🎨 Áreas de Expertise
+## 🎯 Áreas de Expertise
 
 <table align="center">
 <tr>
 <td align="center" width="33%">
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="120" height="120"/>
 <br><br>
-<strong>Desarrollo Web</strong>
-<br><br>
-<p>Soluciones FullStack robustas y escalables con las mejores prácticas</p>
+<h3>💻 Desarrollo Web</h3>
+<br>
+<p>Soluciones FullStack robustas y escalables con arquitecturas modernas y las mejores prácticas del mercado</p>
 </td>
 <td align="center" width="33%">
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="120" height="120"/>
 <br><br>
-<strong>Diseño UX/UI</strong>
-<br><br>
-<p>Interfaces intuitivas centradas en la experiencia del usuario</p>
+<h3>🎨 Diseño UX/UI</h3>
+<br>
+<p>Interfaces intuitivas y elegantes centradas en la experiencia del usuario y diseño human-centered</p>
 </td>
 <td align="center" width="33%">
 <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="120" height="120"/>
 <br><br>
-<strong>Gráficos 3D</strong>
-<br><br>
-<p>Experiencias visuales inmersivas con WebGL y Three.js</p>
+<h3>🌐 Gráficos 3D</h3>
+<br>
+<p>Experiencias visuales inmersivas e interactivas con WebGL, Three.js y tecnologías de vanguardia</p>
 </td>
 </tr>
 </table>
@@ -124,16 +150,16 @@ const Andre = {
 
 ```mermaid
 graph LR
-    A[Aprendiendo SQL] -->|Dominando| B[Power BI]
-    B -->|Explorando| C[Machine Learning]
-    C -->|Construyendo| D[Proyectos Reales]
-    D -->|Creando| E[Impacto]
+    A[📚 SQL Avanzado] -->|Dominando| B[📊 Power BI]
+    B -->|Explorando| C[🤖 Machine Learning]
+    C -->|Construyendo| D[💼 Proyectos Reales]
+    D -->|Creando| E[✨ Impacto Digital]
     
-    style A fill:#1e3a8a,stroke:#3b82f6,stroke-width:2px,color:#fff
-    style B fill:#1e3a8a,stroke:#3b82f6,stroke-width:2px,color:#fff
-    style C fill:#1e3a8a,stroke:#3b82f6,stroke-width:2px,color:#fff
-    style D fill:#1e3a8a,stroke:#3b82f6,stroke-width:2px,color:#fff
-    style E fill:#06b6d4,stroke:#0891b2,stroke-width:3px,color:#fff
+    style A fill:#164e63,stroke:#06b6d4,stroke-width:3px,color:#fff
+    style B fill:#155e75,stroke:#06b6d4,stroke-width:3px,color:#fff
+    style C fill:#0e7490,stroke:#06b6d4,stroke-width:3px,color:#fff
+    style D fill:#0891b2,stroke:#06b6d4,stroke-width:3px,color:#fff
+    style E fill:#06b6d4,stroke:#22d3ee,stroke-width:4px,color:#0a192f
 ```
 
 </div>
@@ -142,11 +168,36 @@ graph LR
 
 <div align="center">
 
-|📚 Aprendiendo Ahora|🎯 Objetivos 2025   |💭 Visión Futura         |
-|:-----------------:|:-----------------:|:----------------------:|
-|SQL Avanzado       |Certificación Cloud|Integración IA/ML       |
-|Power BI           |Open Source        |Arquitectura de Sistemas|
-|Data Science       |Lanzar Portfolio   |Liderazgo Técnico       |
+### 📈 Roadmap 2025
+
+<table>
+<tr>
+<td align="center" width="33%">
+<h3>📚 Aprendiendo Ahora</h3>
+<br>
+• SQL Avanzado & Optimización<br>
+• Power BI & Visualización de Datos<br>
+• Data Science & Analytics<br>
+• Machine Learning Fundamentals
+</td>
+<td align="center" width="33%">
+<h3>🎯 Objetivos 2025</h3>
+<br>
+• Certificación Cloud (AWS/Azure)<br>
+• Contribuir a Open Source<br>
+• Lanzar Portfolio Profesional<br>
+• Masterizar DevOps & CI/CD
+</td>
+<td align="center" width="33%">
+<h3>💭 Visión Futura</h3>
+<br>
+• Integración IA/ML en Apps<br>
+• Arquitectura de Sistemas Escalables<br>
+• Liderazgo Técnico<br>
+• Innovación en Web3
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -154,26 +205,26 @@ graph LR
 
 ## 🌐 Conectemos
 
-<p align="center">
-  <a href="https://github.com/Abranr">
-    <img src="https://img.shields.io/badge/GitHub-0a192f?style=for-the-badge&logo=github&logoColor=06b6d4" />
-  </a>
-  <a href="https://www.linkedin.com/in/abranr2204">
-    <img src="https://img.shields.io/badge/LinkedIn-0a192f?style=for-the-badge&logo=linkedin&logoColor=06b6d4" />
-  </a>
-  <a href="mailto:tu_email@example.com">
-    <img src="https://img.shields.io/badge/Email-0a192f?style=for-the-badge&logo=gmail&logoColor=06b6d4" />
-  </a>
-  <a href="https://tu-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-0a192f?style=for-the-badge&logo=safari&logoColor=06b6d4" />
-  </a>
-</p>
+<div align="center">
 
-<br>
+<a href="https://github.com/Abranr">
+  <img src="https://img.shields.io/badge/GitHub-0e7490?style=for-the-badge&logo=github&logoColor=white&labelColor=0a192f" />
+</a>
+<a href="https://www.linkedin.com/in/abranr2204">
+  <img src="https://img.shields.io/badge/LinkedIn-0284c7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a192f" />
+</a>
+<a href="mailto:tu_email@example.com">
+  <img src="https://img.shields.io/badge/Email-0891b2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a192f" />
+</a>
+<a href="https://tu-portfolio.com">
+  <img src="https://img.shields.io/badge/Portfolio-06b6d4?style=for-the-badge&logo=safari&logoColor=white&labelColor=0a192f" />
+</a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abranr&style=for-the-badge&color=06b6d4&label=Visitas+al+Perfil" />
-</p>
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Abranr&style=for-the-badge&color=06b6d4&label=Visitas+al+Perfil&labelColor=0a192f" />
+
+</div>
 
 <br>
 
@@ -181,9 +232,15 @@ graph LR
 
 <div align="center">
 
-### ⚡ *“Construyendo el futuro, una línea de código a la vez”* ⚡
-
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+<br><br>
+
+### ⚡ *“Construyendo el futuro digital, una línea de código a la vez”* ⚡
+
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=06B6D4&center=true&vCenter=true&random=false&width=600&lines=Código+%2B+Creatividad+%2B+Innovación;Siempre+aprendiendo%2C+siempre+creciendo;Disponible+para+proyectos+desafiantes)](https://git.io/typing-svg)
 
 </div>
 
