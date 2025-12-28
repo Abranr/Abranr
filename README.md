@@ -1,8 +1,11 @@
 ### Hola 👋
+[![](https://github.com/ishandutta2007/ishandutta2007/blob/main/chat.svg)](https://twitter.com/ishandutta2007)
 
- <h3 align="center">Andre Bran</h3>
+ <h3 align="center">Soy Andre Bran</h3>
  <h4 align="center"> Estudiante de Ingeniería[https://committers.top/india_private] </h4>
+ <h4 align="center"> Apasionado por la tecnología [SPOJ](https://www.spoj.com/ranks/users/IN/) </h4>
 
+[![committers.top badge](https://user-badge.committers.top/india_private/vinayakkulkarni.svg)](https://user-badge.committers.top/india_private/vinayakkulkarni)[![trophy](https://github-profile-trophy.vercel.app/?username=ishandutta2007)](https://github.com/ryo-ma/github-profile-trophy)
 
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=d9f99d&text=Andre%20Bran&fontColor=0&textBg=false&reversal=false"
   alt="header"/>
