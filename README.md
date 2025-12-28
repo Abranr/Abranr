@@ -25,14 +25,13 @@
 <td width="50%">
 
 ```javascript
-const andre = {
-  rol: "Desarrollador FullStack",
-  ubicación: "🌎",
-  educación: "Ciencias de la Computación • 4to Año",
-  pasión: ["Código Limpio", "UX/UI", "Innovación"],
-  aprendiendo: ["SQL", "Power BI", "Machine Learning"],
-  disponible: true,
-  mentalidad: "Innovación constante"
+const Andre = {
+  Rol: "Desarrollador FullStack",
+  Educación: "Ingeniería en Sistemas de Información y Ciencias de la Computación • 4to Año",
+  Pasión: ["Código Limpio", "UX/UI", "Innovación"],
+  Aprendiendo: ["SQL", "Power BI", "Machine Learning"],
+  Disponible: true,
+  Mentalidad: "Innovación constante"
 }
 ```
 
@@ -190,4 +189,4 @@ graph LR
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0a192f,50:1e3a8a,100:06b6d4&section=footer" />r” />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0a192f,50:1e3a8a,100:06b6d4&section=footer" />
